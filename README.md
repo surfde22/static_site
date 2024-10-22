@@ -1,1 +1,1 @@
-# static_sote
+# static_site
